@@ -1,4 +1,157 @@
-## Hi there 👋
+<div align="center">
+
+# 👋 Hi, I'm Ishar Roy
+
+### 💻 Full-Stack Developer | AI Enthusiast | B.Tech CSE Student
+
+Passionate about building real-world software that solves practical problems using modern web technologies.
+
+<p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;React+%7C+Node.js+%7C+Firebase;MongoDB+%7C+MySQL+%7C+Express;AI+Enthusiast;Always+Learning+New+Technologies" />
+</p>
+
+</div>
+
+---
+
+# 🚀 About Me
+
+🎓 **B.Tech in Computer Science & Engineering**
+
+🏫 Future Institute of Engineering and Management
+
+📍 India
+
+💡 I enjoy building full-stack web applications with modern technologies and creating software that solves real-world business problems.
+
+Currently exploring:
+
+- 🤖 Artificial Intelligence
+- ⚛️ React Ecosystem
+- 🔥 Firebase
+- 🌐 Full-Stack Development
+- 📍 Geolocation Applications
+- ☁️ Cloud Technologies
+
+---
+
+# 💻 Tech Stack
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+
+---
+
+### Databases
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+---
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+
+---
+
+# 🌟 Featured Projects
+
+### 🚚 Outbound Logistics Tracking System
+
+Real-time shipment tracking platform featuring route visualization, customer order management, and interactive maps.
+
+**Tech Used**
+
+React • Node.js • Express • MongoDB • Leaflet
+
+---
+
+### 🚪 Visitor Gate Pass Management System
+
+Digital visitor management platform with secure gate pass generation and visitor registration.
+
+**Tech Used**
+
+React • Node.js • Express • MySQL
+
+---
+
+### 📍 Geo-Location Attendance Tracking System
+
+Smart employee attendance platform with GPS verification, Firebase Authentication, Cloud Firestore, and analytics dashboard.
+
+**Tech Used**
+
+React • Firebase • Firestore • JavaScript
+
+---
+
+### 🌐 Page Pulse
+
+Production-ready REST API for website auditing and URL monitoring with automated testing.
+
+**Tech Used**
+
+Node.js • Express • Jest • GitHub Actions
+
+---
+
+# 📈 GitHub Stats
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=Ishar007&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Ishar007&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ishar007&layout=compact&theme=tokyonight)
+
+</div>
+
+---
+
+# 🎯 Current Goals
+
+- 🌱 Strengthen Full-Stack Development skills
+- 🤖 Build AI-powered applications
+- 📚 Master Data Structures & Algorithms
+- ☁️ Learn Cloud Technologies
+- 💼 Secure a Software Development role
+
+---
+
+# 📫 Connect With Me
+
+📧 **Email:** your-email@example.com
+
+💼 **LinkedIn:** Add your LinkedIn profile
+
+🌐 **GitHub:** https://github.com/Ishar007
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*"Building software, solving problems, and learning something new every day."*
+
+</div>
 
 <!--
 **Ishar007/Ishar007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
