@@ -137,9 +137,9 @@ Node.js • Express • Jest • GitHub Actions
 
 # 📫 Connect With Me
 
-📧 **Email:** your-email@example.com
+📧 **Email:** isharroy8@gmail.com
 
-💼 **LinkedIn:** Add your LinkedIn profile
+💼 **LinkedIn:** https://www.linkedin.com/in/ishar-roy/
 
 🌐 **GitHub:** https://github.com/Ishar007
 
