@@ -2,6 +2,8 @@
 
 # 👋 Hi, I'm Ishar Roy
 
+![](https://komarev.com/ghpvc/?username=Ishar007&style=for-the-badge&color=blueviolet)
+
 ### 💻 Full-Stack Developer | AI Enthusiast | B.Tech CSE Student
 
 Passionate about building real-world software that solves practical problems using modern web technologies.
