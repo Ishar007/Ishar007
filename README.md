@@ -24,7 +24,7 @@ Passionate about building real-world software that solves practical problems usi
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
 🎓 **B.Tech in Computer Science & Engineering**
 
