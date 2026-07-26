@@ -4,9 +4,7 @@
 
 <p align="center">
 <a href="https://github.com/Ishar007"><img src="https://img.shields.io/badge/GitHub-Ishar007-181717?style=for-the-badge&logo=github"></a>
-
 <a href="https://www.linkedin.com/in/ishar-roy/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-
 <a href="mailto:isharroy8@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"></a>
 </p>
 
