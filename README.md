@@ -52,7 +52,7 @@ Currently exploring:
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=Ishar007&theme=tokyo-night)
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
 ### Frontend
 
@@ -86,7 +86,7 @@ Currently exploring:
 
 ---
 
-# 🌟 Featured Projects
+## 🌟 Featured Projects
 
 ### 🚚 Outbound Logistics Tracking System
 
@@ -150,7 +150,7 @@ Node.js • Express • Jest • GitHub Actions
 
 ---
 
-# 📈 GitHub Stats
+## 📈 GitHub Stats
 
 <div align="center">
 
@@ -164,7 +164,7 @@ Node.js • Express • Jest • GitHub Actions
 
 ---
 
-# 🎯 Current Goals
+## 🎯 Current Goals
 
 - 🌱 Strengthen Full-Stack Development skills
 - 🤖 Build AI-powered applications
@@ -174,7 +174,7 @@ Node.js • Express • Jest • GitHub Actions
 
 ---
 
-# 📫 Connect With Me
+## 📫 Connect With Me
 
 📧 **Email:** isharroy8@gmail.com
 
