@@ -108,11 +108,9 @@ Node.js • Express • Jest • GitHub Actions
 
 # 🏆 GitHub Trophies
 
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=Ishar007&theme=tokyonight&no-frame=true&row=1&column=6)
-
-</div>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Ishar007&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1&column=6" />
+</p>
 
 ---
 
@@ -120,9 +118,9 @@ Node.js • Express • Jest • GitHub Actions
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ishar007&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ishar007&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ishar007&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Ishar007&theme=tokyonight"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishar007&layout=compact&theme=tokyonight"/>
 
