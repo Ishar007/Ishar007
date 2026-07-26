@@ -133,20 +133,6 @@ Node.js • Express • Jest • GitHub Actions
 
 ---
 
-# ⚡ Coding Stats
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=Ishar007&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ishar007&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ishar007&layout=compact&theme=tokyonight)
-
-</div>
-
----
-
 # 📈 GitHub Stats
 
 <div align="center">
