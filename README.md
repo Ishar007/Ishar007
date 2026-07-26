@@ -90,7 +90,7 @@ Real-time shipment tracking platform featuring route visualization, customer ord
 
 React • Node.js • Express • MongoDB • Leaflet
 
-🔗 https://github.com/Ishar007/outbound-logistics-tracking-system
+🔗 **Repository:** https://github.com/Ishar007/outbound-logistics-tracking-system
 
 ---
 
@@ -102,7 +102,7 @@ Digital visitor management platform with secure gate pass generation and visitor
 
 React • Node.js • Express • MySQL
 
-🔗 https://github.com/Ishar007/visitor-gate-pass-management-system
+🔗 **Repository:** https://github.com/Ishar007/visitor-gate-pass-management-system
 
 ---
 
@@ -114,7 +114,7 @@ Smart employee attendance platform with GPS verification, Firebase Authenticatio
 
 React • Firebase • Firestore • JavaScript
 
-🔗 https://github.com/Ishar007/geo-location-attendance-tracking-system
+🔗 **Repository:** https://github.com/Ishar007/geo-location-attendance-tracking-system
 
 ---
 
@@ -126,7 +126,7 @@ Production-ready REST API for website auditing and URL monitoring with automated
 
 Node.js • Express • Jest • GitHub Actions
 
-🔗 https://github.com/Ishar007/page-pulse
+🔗 **Repository:** https://github.com/Ishar007/page-pulse
 
 ---
 
