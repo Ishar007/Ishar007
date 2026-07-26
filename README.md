@@ -46,6 +46,7 @@ Currently exploring:
 ---
 
 ## 🏆 GitHub Trophies
+
 ![](https://github-profile-trophy.vercel.app/?username=Ishar007&theme=tokyonight&no-frame=true&row=1&column=6)
 
 ## 📈 Contribution Graph
