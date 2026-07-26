@@ -2,14 +2,22 @@
 
 # 👋 Hi, I'm Ishar Roy
 
+<p align="center">
+<a href="https://github.com/Ishar007"><img src="https://img.shields.io/badge/GitHub-Ishar007-181717?style=for-the-badge&logo=github"></a>
+
+<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"></a>
+</p>
+
 ![](https://komarev.com/ghpvc/?username=Ishar007&style=for-the-badge&color=blueviolet)
 
 ### 💻 Full-Stack Developer | AI Enthusiast | B.Tech CSE Student
 
 Passionate about building real-world software that solves practical problems using modern web technologies.
 
-<p>
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;React+%7C+Node.js+%7C+Firebase;MongoDB+%7C+MySQL+%7C+Express;AI+Enthusiast;Always+Learning+New+Technologies" />
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=7F5AF0&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;React+%7C+Node.js+%7C+Express;Firebase+%7C+MongoDB+%7C+MySQL;AI+Enthusiast;Building+Real-World+Projects" />
 </p>
 
 </div>
@@ -36,6 +44,14 @@ Currently exploring:
 - ☁️ Cloud Technologies
 
 ---
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=Ishar007&theme=tokyonight&no-frame=true&row=1&column=6)
+
+## 📈 Contribution Graph
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=Ishar007&theme=tokyo-night)
 
 # 💻 Tech Stack
 
@@ -81,6 +97,8 @@ Real-time shipment tracking platform featuring route visualization, customer ord
 
 React • Node.js • Express • MongoDB • Leaflet
 
+🔗 https://github.com/Ishar007/outbound-logistics-tracking-system
+
 ---
 
 ### 🚪 Visitor Gate Pass Management System
@@ -90,6 +108,8 @@ Digital visitor management platform with secure gate pass generation and visitor
 **Tech Used**
 
 React • Node.js • Express • MySQL
+
+🔗 https://github.com/Ishar007/visitor-gate-pass-management-system
 
 ---
 
@@ -101,6 +121,8 @@ Smart employee attendance platform with GPS verification, Firebase Authenticatio
 
 React • Firebase • Firestore • JavaScript
 
+🔗 https://github.com/Ishar007/geo-location-attendance-tracking-system
+
 ---
 
 ### 🌐 Page Pulse
@@ -110,6 +132,18 @@ Production-ready REST API for website auditing and URL monitoring with automated
 **Tech Used**
 
 Node.js • Express • Jest • GitHub Actions
+
+🔗 https://github.com/Ishar007/page-pulse
+
+---
+
+## ⚡ Coding Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Ishar007&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Ishar007&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ishar007&layout=compact&theme=tokyonight)
 
 ---
 
