@@ -49,7 +49,6 @@ Currently exploring:
 ![](https://github-profile-trophy.vercel.app/?username=Ishar007&theme=tokyonight&no-frame=true&row=1&column=6)
 
 # 📈 Contribution Graph
-
 ![](https://github-readme-activity-graph.vercel.app/graph?username=Ishar007&theme=tokyo-night)
 
 # 💻 Tech Stack
