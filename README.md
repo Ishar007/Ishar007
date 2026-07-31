@@ -130,6 +130,18 @@ Node.js • Express • Jest • GitHub Actions
 
 ---
 
+### 🌐 AI Coding Agent
+
+AI-powered coding agent built with Python and Ollama that explores repositories, generates implementation plans, and applies AI-assisted code modifications using a local LLM.
+
+**Tech Used**
+
+Python 3.11 • Ollama • Qwen2.5-Coder 7B • Git • GitHub • Node.js • Express.js • PowerShell • VS Code
+
+🔗 **Repository:** https://github.com/Ishar007/ai-coding-agent
+
+---
+
 # 📈 GitHub Stats
 
 <div align="center">
